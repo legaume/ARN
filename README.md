@@ -1,5 +1,5 @@
 # ARN
-Différent fichiers et informations en rapport avec l'Associaion Alsace Réseau Neutre
+Différent fichiers et informations en rapport avec l'Association Alsace Réseau Neutre
 
 
 site web = arn-fai.net
