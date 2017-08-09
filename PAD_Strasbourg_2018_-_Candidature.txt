@@ -1,0 +1,545 @@
+
+*== Anciens dossiers
+
+https://cloud.beauvais-en-transition.info/index.php/s/cPIf4vgsnUBPowE#pdfviewer — Beauvais
+https://cloud.beauvais-en-transition.info/index.php/s/KpMxSfAgciQZZBF#pdfviewer — Strasbourg
+http://comite.rmll.info/IMG/pdf/candidature-bdx-rmll2010-2-03.pdf — Bordeaux
+
+*== Notes concernant le dossier
+
+Il est pensé pour pouvoir être réutilisé comme base pour différents dossiers de demandes de subventions, de locaux, etc.
+Les parties descriptives du Libre et du projet doivent particulièrement être présentables à des personnes extérieures au comité des RMLL.
+
+Essayons de faire attention aux points suivants :
+
+    - Décrire l’évènement qu’on compte organiser avec précision.
+        - Par exemple, si on veut que les journées soient à thème ou que les JGP soient une install-party, il faut le décrire, expliquer ce que c’est, comment on compte le faire, etc.
+    - Utiliser des buzzwords.
+        - Ok, pas partout, ça serait horrible.
+        - Mais il faut quand même.
+          Les gens qui portent des cravates aiment les buzzwords, et comprendront pour la plupart pas toutes les subtilités de ce qu’on fait.
+        - Pour citer Aleks :
+            « un projet innovant du digital numérique de l'espace »
+
+*== Décisions à prendre en vrac
+
+  - Bâtiments
+    - Atrium
+    - Escarpe
+    - Patio ou Fac de droit ? (bâtiment pour le village)
+  - Que faire avec les Allemands, si on a des allemands ?   voir avec fsfe.org ?
+  - Repas du Libre ?
+    -   https://beenaps.com/association-mosaique-restaurant-traiteur-strasbourg/   ????  Comme dit lors de la réunion je prendrais contact avec les gens que je connais à mon retour à Strg fin Août pour voir ce qu'il est possible de faire avec eux et si ça peut nous convenir. (Legaume) 
+    -  Autre possibilité : http://ileauxepis.eu/buffet/menu-reception/   ???
+  - Interprétariat ?
+    -  Mobiliser des étudiants sur le projet ? l' ITIRI - l'Institut de traducteurs d'interprètes et de relations internationales à l'université de Strasbourg  ???   03 68 85 66 80  https://itiri.unistra.fr/                ou bien l'UFR de langues et sciences humaines appliquée http://www-umb.u-strasbg.fr (marc bloch)  03 88 41 59 45
+  - On invite des politiques *pendant* l’évènement ? ¬_¬ (cf. tables rondes de 2011)
+  - Tourisme
+  - Hackathons
+  - Transports en commun pendant l’évènement
+  - Détail des animations pendant les journées grand public (confs/pas de confs ? ateliers/pas d’ateliers ? panneaux de pub ? Un jour/deux jours ?)
+
+*---
+title: "Rencontres Mondiales du Logiciel Libre"
+subtitle: "Candidature de Strasbourg"
+date: "Du 7 au 12 juillet 2018"
+toc-title: "Sommaire"
+break-after-title: true
+fancyhdr: true
+geometry:
+- margin=1.5in
+tags:
+- rmll
+- candidature
+fontsize: "12pt"
+mainfont: Merriweather-Light
+mainfontoptions:
+- ItalicFont = Merriweather-LightItalic
+- BoldFont = Merriweather-Regular
+monofont: Fira Code
+...
+
+*== Introduction
+
+Les RMLL — ou Rencontres Mondiales du Logiciel Libre — sont un cycle de conférences et d’ateliers centrées sur la Culture du logiciel libre visant un large panel de publics différents.
+Elles sont un point de rencontre majeur entre développeurs, décideurs et utilisateurs, de tout horizons et de tout type de structures.
+
+C’est un lieu d’échange convivial se tenant chaque année dans une nouvelle ville, sous l’impulsion d’une équipe différentes et de nouvelles associations.
+
+Le logiciel Libre est un mouvement formalisé dans les années 1980 qui vise à favoriser la distribution du logiciel et de tout ce qui le compose, en utilisant de alors façon originale  le droit d’auteur assurer un certain nombre de liberté sur le contenu à tout utilisateur. 
+Mais aujourd'hui le Libre est loin de se cantonner seulement au logiciel, ce mouvement transformatif catalyse les innovations à la fois dans le monde associatif et l'écosystème des entreprises.
+
+À cet égard, les RMLL ne concernent pas que le logiciel libre : Art Libre, Culture Libre, et l'Open data (données ouvertes) y sont aussi des thèmes récurrents et extrêmement présents.
+
+Pour cette édition 2018, une équipe de bénévoles de différents horizons (étudiants, associatifs, salariés, entrepreneurs, …) se propose pour organiser ces rencontres dans la ville de Strasbourg, pôle économique et culturel dynamique au cœur de l’Europe.
+
+
+
+<!--
+C’est bon, c’est un tl;dr assez épique ?
+
+- RMLL
+	- conférences, tables rondes, ateliers
+	- formation
+	- lieu d’échange
+- Le Libre
+	- vieux, toujours croissant
+	- vecteur d’innovation au centre de l’économie du numérique
+	- berceau de l’Open Data, imposé aux administrations
+- Change de lieu chaque année
+	- ???
+- 2018 Strasbourg, because
+
+La ville de Strasbourg possède des atouts qui la rendent indéniablement un lieu priviligié pour l'organisation d'un rassemblement tel que les RMLL.
+
+Carrefour de nombreuses voies de communication, riche d'une tradition hotelière variée, habituée à accueillir de nombreux congrès, la ville ne peut que satisfaire les participants à un  événement majeur pour l'avenir de notre société.
+
+Mais plus encore que les facilités matérielles et l'attrait touristique de Strasbourg, c'est dans son histoire que l'on peut trouver des raisons profondes qui légitiment totalement la candidature de Strasbourg aux rencontres mondiales du logiciel libre.
+
+Lieu d'histoire et de culture, choisie pour la création du conseil de l'Europe après la seconde guerre mondiale, siège de la cour européenne des droits de l'homme, ville où depuis des siècles coexistent sans heurts toutes les grandes religions, Strasbourg est aussi capitale de l'Alsace, une région qui lutta toujours pour sa liberté et ses particularités.
+Ses habitants souvent bilingues ont une grande habitude des contacts internationaux.
+
+L'organisation des RMLL à Strasbourg se placerait à la proue d'une longue tradition liant l'amour pour un riche patrimoine, au goût pour les sciences, à la reflexion sur le monde et les relations internationales sans renier son passé, tournée vers l'avenir.
+
+
+
+
+	- au cœur de l’Europe. Parler de l’Europe ça pourrait faire cool. Peut-être ?
+	
+	
+	- 2011 Strasbourg, on gère lol (=|)
+	- ???
+-->
+
+*== Le Libre
+
+*=== Les débuts & le Logiciel libre
+
+- le libre est partout, on en utilise tous les jours, même sans s'en rendre compte
+- pourquoi a-t-il convaincu les grands acteurs économiques ?
+
+À l'origine le Libre est apparu avec les débuts de l'informatique.
+Les ordinateurs étaient alors des machines très volumineuses et couteuses ne pouvant être manipulées que par quelques chercheurs.
+Les logiciels étaient alors très liés à leur support et n'avaient pas de valeur intrinsèque.
+Les chercheurs échangeaient des copies des logiciels avec leur pairs pour les développer collectivement.
+Ces chercheurs en informatique se faisaient appeler des hackers (bricoleurs/bidouilleurs), à ne pas confondre avec la crackers : les pirates informatiques.
+Ce n'est qu'en [date] fin des années 70 début des années 80 ? lorsque les logiciels ont commencé à avoir une valeur commerciale significative que l'on a assisté à un processus de verrouillage de l'informatique. (en parallèle avec l'essor des mini et des micro, ainsi que la multiplication des ordinateurs alors qu'auparavant, il y avait peu de mainframes et peu de logiciels "on the shelf")
+L'évènement le plus marquant de l'époque est lettre ouvertes aux bricoleurs (*Open Letter to Hobbyists*) écrite par Bill Gates en janvier 1976, leur sommant d'arrêter de copier et de les modifier, assimilant ces actions à du vol, ce qui à l'heure d'aujourd'hui nous paraitrait comme tel, mais qui n'était pas encore rentré dans les mentalité de l'époque, car c'est de cette façon qu'avait toujours été développé les logiciels : en les copiant et les modifiant pour qu'ils puissent être améliorés par d'autres personnes.
+
+Face à ce mouvement et soucieux de préserver la liberté des logiciels RMS fonda le projet GNU en 1983, il formalisa alors la définition du logiciel libre.
+Un logiciel est considéré comme libre s'il confère à son utilisateur ces 4 libertés (numérotées de 0 à 3) :
+
+  0. la liberté d'exécuter le programme, pour tous les usages ;
+  1. la liberté d'étudier le fonctionnement du programme et de l'adapter à ses besoins ;
+  2. la liberté de redistribuer des copies du programme (ce qui implique la possibilité aussi bien de donner que de vendre des copies) ;
+  3. la liberté d'améliorer le programme et de distribuer ces améliorations au public, pour en faire profiter toute la communauté.
+
+Aujourd'hui, et ce malgré l'économie du logiciel propriétaire, le logiciel libre est partout.
+(ouais c'est trop la fête)
+-> Android chez Google
+-> même Apple utilise du libre même si ils ne le revendiquent pas.De même, Google n'insiste pas sur le fait qu'android est basé sur le noyaux linux.
+-> le navigateur Mozilla
+-> même IBM et Oracle
+
+Le logiciel libre souffre cependant encore d'une image d'amateurisme auprès du grand public (et de certains professionnels) et c'est pourquoi il est important de le promouvoir, par exemple à travers d'évènements comme les Rmll que nous nous proposons d'organiser à Strasbourg  l'année prochaine.
+
+Et pour cause, puisque les logiciels libres possèdent notamment les avantages suivants :
+
+- Le code source est accessible et il est donc vu par plus de paires d'yeux => meilleure qualité du code, correction des bugs plus rapide, meilleure sécurité etc (peer review)
+-Si les personnes qui ont programmé le logiciel ne suivent plus le projet, d'autres peuvent prendre le relais. Le logiciel peut donc être maintenu plus longtemps que le logiciel propriétaire.
+- Le logiciel peut être adapté aux besoins d'autres utilisateurs. On peut créer de nouvelles features sans avoir à dépendre d'une société en particulier. => Fork ...
+- les logiciels libres utilisent des formats non propriétaires qui permettent la migration des données vers d'autres logiciels. Assurance de pouvoir encore lire mes données dans 10 ou 20 ans. (cf 3-4 lignes plus bas)
+-
+
+<!--
+Sécurité, flexibilité, uh… c’est moins chers ? ;_;
+La compatibilité c’est aussi un avantage, je suppose. Mais bon, c’est pas fondamentalement lié à la nature de logiciel Libre, c’est juste favorisé par ça. =|
+-->
+
+Parler des communauté ? Plein de bénévoles et tout ça.
+
+
+À savoir de logiciel libre et Open source désignent la même chose.
+Bien qu'historiquement, la différence de dénomination correspond à des postures idéologiques différentes : L'Open source insiste sur l'efficacité et les bénéfices que les entreprises peuvent tirer de l'ouverture du code source alors que les partisants du Libre insistent sur le respect des libertés de l'utilisateur.
+Mais aujourd'hui ces 2 courants -- L'Open source et le Libre -- ne s'opposent plus, et en général un logiciel Libre est également Open source et inversement, ces deux termes sont même utilisés comme des synonymes
+
+
+*=== L’Art et la Culture Libres
+
+Depuis le début des années 2000, l’esprit de partage traditionnellement lié au logiciel Libre se propage dans d’autres domaines.
+Qu’il s’agisse d’œuvres écrites (romans, manuels techniques, brochures, …), de compositions musicales ou de productions graphiques (peinture, infographies, sites web, …), les artistes ont commencé à publier leurs travaux sous les mêmes conditions que celles du logiciel Libre.
+
+Le terme de « logiciel » Libre devient de moins en moins adapté, et la communauté va parler de plus en plus de « Libre ».
+
+Les creatives commons c'est très très bien. (8)
+
+
+Le Libre permet une diffusion très large, ce qui est une grande opportunité pour les acteurs de la culture, à ce titre la Bibliothèque Nationale de France met à disposition énormément de contenu culturel sur son site internet Gallica afin de faire profiter de cette richesse culturelle au plus grand nombre.
+
+
+*=== L’Open-Data & le partage de la connaissance
+
+À l'instar des logiciel libres, l'ouverture des bases de données avec leur diffusion en Open data a été un facteur d'innovation important.
+La prise de conscience de la richesse que représente les données collectées à la fois par des acteurs privées que des acteurs publics et de la perte qu'engendrerait la non réutilisation de ces données a poussé des grandes acteurs tels que la SNCF ou l'INPI à publier leurs jeux de données spontannément.
+
+Mais cette initiative d'ouverture à la base laissée au bon vouloir des différentes entités n'en est pas restée là, puisque la loi pour une République numérique du 7 octobre 2016 impose désormais aux administrations de publier (sous certaines conditions) leurs jeux de données sous l'une des licences libres listées par le décret n°2017-638, publié le 27 avril 2017.
+Parmi cette liste figurent notamment les licences « Mozilla Public License », « GNU General Public License », « Apache », « Massachusetts Institute of Technology License », donnant ainsi une légitimité sans précédent aux licences libres standards les plus connues.
+
+L’amendement 534 de la loi pour une République numérique prévoit que les logiciels developpés pour le besoin des administrations, sont des documents administratifs communicables au citoyen.
+Il ressort de ce qu'il a été énoncé précédemment qu'à ce titre les logiciels des administrations doivent être publiés sous l'une des licences libres énoncée par décret.
+
+Ainsi que ce soit les collectivités territoriales, les universités ou encore les centres de recherches, toutes les administrations se voient légalement obligées d'ouvrir leurs données et leurs logiciels, la loi impose même que cette ouverture doit se faire gratuitement (chose que n'oblige pas directement les licences libres).
+Cette démarche favorise l'échange de données entre les administrations, mais permet également de dynamiser l'économie du numérique se basant sur la donnée.
+En effet, les entreprises innovantes ont alors la possibilité de réutiliser les données afin de développer des nouveaux services pour répondre aux besoins et aux souhaits de la population.
+
+*
+
+*=== Le Libre en Alsace
+
+L’Alsace est une région extrêmement active concernant le Libre, et de nombreux évènements libristes y sont régulièrement organisés.
+
+Voici quelques exemples de tels évènements :
+
+  - PyCon ;
+  - Perl Days ;
+  - RMLL 2011 ;
+  - Journées des Unix Libres ; <!-- omg so old -->
+  
+
+De nombreuses associations organisent également des rencontres régulières entre libristes dans la région :
+
+  - le Linux User Group — ou LUG — de Strasbourg — un groupe informel créé pour l’échange de connaissances et la promotion du logiciel Libre ;
+  - Desclicks, l’Informatique Solidaire ;
+  - Hackstub — un projet de Hackerspace sur Strasbourg ;
+  - ARN — un fournisseur d’accès à Internet associatif ;
+  - AIUS — une association étudiante ;
+  - Seeraiwer — une association de promotion auprès du public ;
+
+<!-- Euh. wth.
+  - RMLL 2011 Strasbourg
+  - Desclicks, bidule permanent
+  - Le LUG, le Hackstub, ARN → des actions de promotions fréquentes
+  - PyCon, Journées Perl, Journées des Unix Libres
+  - grosse économie (i guess)
+-->
+
+Il y a également les éditions Diamond qui sont basées en Alsace et qui publient des magazines sur le libre, linux, la bidouille, la sécu etc ...  (GNU/Linux Magazine, MISC, Linux Pratique, OPEN SILICIUM, Hackable Magazine, des hors-série sur des sujets en rapport avec le libre  et j'en oublie encore sûrement)
+https://boutique.ed-diamond.com 10 Place de la Cathédrale, 68000 Colmar, France  |  Tél : +33 (0)3 67 10 00 20  |   Fax : +33 (0)3 67 10 00 21
+
+L'entreprise Alsétic  https://www.alsetic.fr/  et https://www.alsetic.fr/logiciels-libres
+
+
+
+*== Les RMLL
+
+*=== Présentation générale
+
+- des confs
+- des ateliers, des tables rondes, etc.
+
+- des stands
+
+- rencontre entre les acteurs du Libre et le grand public
+
+- rencontre entre les différents acteurs du Libre
+	- développeurs
+	- décideurs
+	- administrateurs (« gens qui portent des cravate »)
+
+*=== Historique
+
+<!-- C’était dans les anciens dossiers, duh~ -->
+
+*=== Le comité de sélection
+
+*=== Organisation
+
+- Plein de bénévoles et d’organisateurs
+- Des anciens qui viennent de partout pour aider
+- Comme pour le Libre, des contributions en ligne pour les outils et les documents (git, pads, duh~)
+
+*== Notre candidature
+
+<!-- Descriptions de l’évènement de 2018, et non plus des RMLL en tant qu’évènement récurrent. -->
+
+*=== Strasbourg
+
+*=== Dates & lieux
+
+7 juillet -> 12 juillet
+
+Durée : 6 jours.
+
+Probablement les secondes dates.
+
+Jour 1 & 2:     grand public
+Jour 3, 4 & 5:  journées à thème (conférences, etc.)
+Jour 6:         débrief public, réunion sur le futur des RMLL (passages certifications ?)
+
+*=== Fil conducteur & thèmes
+
+FIXME: WIP
+
+Fil conducteur : ???
+
+Tri par public :
+
+    - Grand public :
+        - Arts numériques
+          -> ???
+        - Culture Libre
+          -> ???
+        - Loisirs numériques
+          -> jeux vidéos
+          -> vidéos
+          -> potentiellement des trucs sur le web ou whatnot
+        - Santé
+          -> ??? (On a assez de contenu pour un thème sur la santé seul ?) (ajouter l'écologie ou un truc comme ça ?)
+        - Auto-hébergement & gouvernance éthique (split ?)
+
+Autre idée de découpage pour "Grand public" (les sous-thèmes sont des exemples, on peut modif)
+	- s'amuser
+          -> jeux vidéos
+          -> son et lumière (vidéo, graphisme, musique)
+          -> potentiellement des trucs sur le web ou whatnot
+          -> autres trucs ludiques
+	- découvrir/s'informer
+		-> bookins libres
+		-> toute sortes de ressources libres
+		-> quites pour apprendre/expérimenter ...
+		-> ...
+	- agir
+		-> Auto-hébergement & gouvernance éthique (split ?)
+		-> Santé
+		-> politique/citoyenneté
+		-> écologie
+	- fabriquer
+		-> Diy
+		-> initiation prog
+		-> bierre libre et tout ça
+		-> ...
+	
+	
+    - Développeurs : (Sujets techniques, innaccessibles sans être initié.)
+        - Langages de prog
+          -> De préférence, mettre des trucs modernes en avant (Rust, Crystal, Go — urk —, etc.)
+          -> un sous-thème web ?
+        - Systèmes d’exploitation
+        - Outils de développements (“DevOps”)
+        - Matériel Libre
+        - Réseaux et cloud
+
+    - Décideurs/Politiques/administrations : (Ceux qui ont des contraintes d'utilisations de LL, qui doivent travailler avec le LL, le propager, etc.)
+        - Collectivités, Administrations et Politiques Publiques (L'Open Data dans l'administration, l'utilisation des licences libres sur les jeux de données.)
+        - Entreprises (Logiciels Libres, Open Source et Open Data en entreprise~)
+        - Communication sur le Libre (Comment faire de la sensibilisation au Libre)
+        - Communauté ? (pour remplacer Communication^, though) +1
+
+    - Divers/transversaux : (fils rouges ?)
+        - Données ouvertes (Open Data)
+        - Licences Libres et droit du Libre
+        - Éducation (ça fait très scollaire. pourquoi pas quelque chose de plus général comme apprendre ? Parce que c’est pas la même chose.)
+        - Sécurité et protection des données
+        - Accessibilité et handicap
+
+*=== Les intervenants
+
+Comment gère-t-on les appels à contribution ?    http://www.papercall.io/ est-il pertinent ?
+
+*=== Restauration
+
+Semaine :
+
+    - CROUS ?
+    - AIUS/crocs ?
+
+Repas du Libre :    https://beenaps.com/association-mosaique-restaurant-traiteur-strasbourg/ ???? (cf note plus haut)
+
+    - omg what do what do
+
+*=== Hébergement
+
+- CROUS, i guess (si ≤ 20€, sinon on pleure et on se prépare pour le second item de la liste)
+- airbnb
+
+*=== Transports
+
+- on verra peut-être avec la CTS
+- on verra peut-être avec la SNCF
+
+- Strasbourg c’est le fucking centre de l’Europe, toutes les routes mènent à Strasbourg (même les routes allemandes
+- tout les avions aussi  (la desserte en avion laisse un peu à désirer pour une capitale, mais on n'est pas obliger de le faire remarquer)
+- bientôt le téléporteur aussi
+- on a même Internet
+
+*=== Communication
+
+*==== En ligne & communautaire
+
+- Passer les informations à nos « Réseaux™ ».
+  - alsace.netlib.re
+  - Certaines assos peuvent passer un truc aussi gros ailleurs. L’AIUS peut passer l’information auprès de l’AFGES, par exemple.
+  - Et les autres associations ?
+
+- réseaux sociaux ?
+
+- Site Internet ? (Si besoin je peux techniquement poser un Wordpress et me charger de l'administration de l'outil).
+  -> On a au moins deux personnes chargées d’écrire un site Bien™.
+     (Bien == avec un vrai front, et avec une gestion du programme.)
+
+Les journaux spécialisés. Comme par exemple  dans les publications des éditions "Diamond". De plus, ces derniers voudront sans doute participer à l'évenement vu que leur siège est à Colmar pas loin et que certains habitent même Strasbourg.
+
+*==== Auprès du grand public
+
+- réseaux sociaux : twitter, facebook, linkedin, etc 
+
+Radios etc... (rbs ? fip ? des radios avec un public qui pourrait être intéressé par une manière différente -et plus respectueuse des libertés- de pratiquer l'informatique.)
+- affiches
+- flyers
+
+- :(((
+
+- partenaires
+    - Shadock (?) CONFIRM SOMEHOW PLZ
+    - Université (?) CONFIRM SOMEHOW PLZ
+    - ??? IS THAT ALL WE’VE GOT ???
+
+*==== Journées grand public
+
+- objectif : introduire le grand public au logiciel Libre
+
+- changement de format
+    - à l’intérieur
+    - Install Party au centre des JGP
+    - ateliers et démonstrations d’outils et de jeux Libres
+    - confs d’intervenants célèbres, autant que possible, pour attirer plus de gens~
+    - nombre réduit de stands, uniquement les trucs VRAIMENT *FUCKING **ULTRA** * pertinents (Open Document Foundation, Firefox, Ubuntu, APRIL, …)
+    - c’est le bon moment pour sortir la propagande (affiches, panneaux, etc.)
+
+- concentrer la communication locale sur les JGP
+    - attirer le public sera fait UNIQUEMENT à travers la communication
+      (justification : se poser sur une place ça marche pas dtf. Also, on nous fille toujours la mauvaise place. :()
+    - stands mobiles seront considérés
+
+*==== Journées à thèmes
+
+- les thèmes sont limités à une journée (éventuellement ½ journée si les thèmes sont moins importants ou que pas assez de conférenciers)
+- les thèmes sont limités à un groupe de salles
+- Certains thèmes sont à destination d’un public particulier (grand public, développeurs, etc.)
+- Les conférences techniques et les publics cibles seront indiqués sur le programme (also, en ligne)
+
+- on met les thèmes qui visent les geeks hardcore à la fin de l’évènement
+
+*=== Nocturnes
+
+FIXME: concerts, animations en plein air, arts numériques Libres
+FIXME: voir avec Jérémie s’il a une idée d’un truc Bien™
+
+FIXME: no fucking clue (qui peut se charger de superviser ça ?) Jérémie peut le faire
+
+*=== Repas du Libre
+
+FIXME: no fucking clue (on fait quoi, où ? On prévoit quoi de spécial ? Tartes flambées again ?)
+
+Si on trouve des locaux et qu’on a une dizaine de bénévoles à sacrifier, on peut faire une opération Tartes flambées de l’apocalypse.Peut-être vaut-il mieux garder nos bénévoles et leur (peu) d'énergie et de temps pour des tâches correspondants à notre action ?  On peut par contre "sous-traiter" à d'autres associations dont c'est l'objet. (par exemple à des entreprises d'insertion qui forment leur membres aux métiers de la restauration) Finalement Lukc propose que l'on garde la main sur le repas du libre afin de pouvoir en tirer un meilleur bénéfice.  = Tartes flambées qui pourraient être cuisinées par des bénévoles d'une association dédiée ?   + les gens voudront sans doute manger "local" :(
+Si on trouve des locaux biens et que la météo est ok, y’a peut-être même moyen de consommer en extérieur.
+
+=== Interprétariat <!-- cf note plus haut sur les écoles d'interprètes -->
+
+- Si on fait des confs en allemand/espagnol/indien/whatthefuckever, ça peut être bien d’avoir des traductions.
+- Négocier des stages avec des écoles d’interprétariat ? ok j'avais pas vu que ça avait déjà été proposé :)
+
+=== Tourisme <!-- On a ABSOLUMENT rien de prévu, pour le moment. Mais ça sera probablement facile à faire. --> en cours de rédaction
+
+<!-- La question c’est aussi beaucoup « est-ce qu’on organise quelque chose (genre, des visites) ? », et « est-ce que tout les trucs à visiter sont accessibles depuis le site de l’évènement ? » -->
+
+La ville de Strasbourg a de nombreuses sorties à proposer:
+
+	* Bien entendu la Cathédrale dont le rayonnement nous dispense d'avoir à convaincre les participants à y aller faire un tour, mais également pas loin de celle-ci la petite-france, quartier pitorresque qui ravira les visiteurs. par son architecture typique. (visite en bâteaux)
+	* Le quartier des institutions européennes pour ceux plus attiré par l'aspect politique et les enjeux internationaux.
+	* Le récent classement en juillet de la Neustadt au patrimoine mondial de l'humanité jette une lumière nouvelle sur ce quartier allemand et provoque l'intérêt bien au delà de nos frontières.
+	* Les particularités linguistiques de notre région pourront également intéresser certains  (Question = existe-t-il des traductions en alsacien de logiciels libres ?)
+	* Le musée d'art moderne
+	* Le musée notre-dame
+	* Lignes de ville ? https://www.lignesdeville.eu/
+
+
+Après leur journée les participants pourront également se détendre dans le quartier de la Krutenau, haut lieu nocturne strasbourgeois et proche des facs où se dérouleront vraissemblablement les rmll.
+(à condition de se lever le lendemain matin !)
+
+
+
+*=== Trucs avec les politiques ? <!-- Il faudra quelqu’un pour s’en charger si on le fait, et ça, ça sent pas bon. =| -->
+
+C'est quoi l'idée derrière ?
+À l’époque, y’avait une table ronde avec des élus européens.
+Si on tombe sur la bonne semaine, c'est faisable. J'ai un contact direct avec Julia Reda (groupe ALDE/Vert, député pirate, travaille beaucoup sur le libre/Réforme droit d'auteur/Géoblocage).
+Maintenant, voir plutôt le thème que l'on veut mettre en avant ?
+Y’avait une liste d’idées de thèmes pour 2011. Ça incluait la neutralité des réseau, je sais plus pour le reste.
+Je suppose que les possibilités sont nombreuses, à ce niveau là.
+
+*=== Bière Libre
+
+FIXME: Strasbourg a commencé la tradition de la bière Libre, donc on va continuer.
+(il ya un article des DNA pour les gens qui ne connaissent pas http://www.dna.fr/economie/2016/05/24/biere-open-source)
+
+FIXME: Cette année, on aura de la Seeraiwer.           https://www.seeraiwer.org/beer/
+       Je suis pas un grand expert en bière, est-ce que ça vaut le coup de faire de la Seeraiwer et de la bière RMLL en même temps ?
+       (Vendre plus, c’est une raison aussi. On a besoin d’argent. Ça servira à payer le voyage des conférenciers.)
+
+*=== Développement sur place
+
+- hacker rooms
+- bof* rooms
+- hackathons, BECAUSE
+
+*Band of Freaks
+
+*=== Radio RMLL
+
+Radio Rhino
+
+*=== Divers
+
+<!-- La gestion des enfants, etc. Hum. C’est quoi « etc. » dans ce cas ? -->
+
+*== Ressources
+
+*=== Structures porteuses
+
+*==== alsace.netlib.re
+
+https://alsace.netlib.re (hopefully, le nouveau™ site sera dispo soon™)
+
+*==== Lilo
+
+*==== Autres associations du réseau
+
+Une section par association ?
+
+  - Hackstub         https://hackstub.netlib.re/landpage/
+  - ARN              http://arn-fai.net/
+  - Seeraiwer        www.seeraiwer.org 
+  - AIUS -> plein d’étudiants, des organisateurs jeunes, un point d’entrée dans le monde universitaire
+                     https://aius.u-strasbg.fr/   ??? redirection vers facebook WTF ? i no rite
+  - Desclicks        http://desclicks.net/
+  - ASCMI ? (probably not. Qui s’occupe de le leur demander ? sandhose ?)
+
+*=== Équipe organisatrice
+
+*==== Organigramme
+
+<!-- À générer avant de mettre dans un git, duh~
+     http://lukc.upyum.com/rmll_2018.png ? -->
+
+*=== Bénévolat
+
+- grosses contributions étudiantes attendue
+  -> nouvelles têtes, duh~
+
+*== Partenaires
+
+
+*== Annexes
+
+
