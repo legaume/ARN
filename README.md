@@ -1,7 +1,7 @@
 # ARN
-Associaion Alsace Réseau Neutre
+Différents fichiers et informations en rapport avec l'Associaion Alsace Réseau Neutre
 
 
-arn-fai.net
+site web = arn-fai.net
 
-#arn sur irc.geeknode.org
+salon irc = #arn sur irc.geeknode.org
